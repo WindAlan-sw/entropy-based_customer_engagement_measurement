@@ -1,4 +1,5 @@
-## An entropy-based engagement measurement approach using natural language processing - application in social media strategy
+## An entropy-based measurement approach on social media customer engagement using natural language processing![image](https://github.com/WindAlan-sw/entropy-based_customer_engagement_measurement/assets/76271974/9b444941-53f3-4f85-b96f-d822cba73d71)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)<br>
 This project concentrates on the question of the impact of social media marketing activities on customer engagement performance.
 The dimensions of social media marketing are divided into four dimensions of:
