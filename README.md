@@ -184,10 +184,10 @@ To compare the effectiveness of social media marketing of different objectives, 
 By proposed entropy-based customer engagement score, a clear ranking could be obtained among six brands, to better distinguish them, a ratio histogram plotted:
 
 <img width="549" alt="Screenshot 2022-11-12 at 23 49 31" src="https://user-images.githubusercontent.com/76271974/201499185-a00a2b07-02e3-4fa6-bf98-1883c52c508b.png">
-***Note that Group1 in range [0,28],
+**Note that Group1 in range [0,28],
 Group 2 in range (28,31.28],
 Group 3 in range (31.28,34.18],
-Group 4 in range (34.18, 100] based on calibration.***
+Group 4 in range (34.18, 100] based on calibration.**
 
 Based on results above, customer engagement score calculated form Shannon-entropy shows high discriminatory power in differentiating target luxury brands. Generally, the weak performance group includes Armani and Burberry with over 40% of their engagement score belongs to group 1. Chanel and LV can be classified into the same group which shows better social media marketing performance, over 80% of their social media content were evaluated a higher score belonging to group 3&4. 
 
